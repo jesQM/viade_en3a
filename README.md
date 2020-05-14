@@ -1,3 +1,7 @@
+Repo cloned from the original "as it was" right after project deadline.
+
+
+
 [![Build Status](https://travis-ci.org/Arquisoft/viade_en3a.svg?branch=master)](https://travis-ci.org/Arquisoft/viade_en3a)
 [![codecov](https://codecov.io/gh/Arquisoft/viade_en3a/branch/master/graph/badge.svg)](https://codecov.io/gh/Arquisoft/viade_en3a)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3064dbb567e64f61843d399fc9b89c7a)](https://www.codacy.com/gh/Arquisoft/viade_en3a?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Arquisoft/viade_en3a&amp;utm_campaign=Badge_Grade)
